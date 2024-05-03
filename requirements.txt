@@ -33,9 +33,10 @@ six==1.15.0
     #   docker
     #   retrying
     #   scrapinghub
+    #   websocket-client
 toml==0.10.1
     # via -r requirements.in
-tqdm==4.55.1
+tqdm==4.66.3
     # via -r requirements.in
 urllib3==1.25.9
     # via requests
