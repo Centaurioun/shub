@@ -4,7 +4,7 @@
 #
 #    pip-compile
 #
-certifi==2020.6.20
+certifi==2024.7.4
     # via requests
 chardet==3.0.4
     # via requests
@@ -33,9 +33,10 @@ six==1.15.0
     #   docker
     #   retrying
     #   scrapinghub
+    #   websocket-client
 toml==0.10.1
     # via -r requirements.in
-tqdm==4.55.1
+tqdm==4.66.3
     # via -r requirements.in
 urllib3==1.25.9
     # via requests
